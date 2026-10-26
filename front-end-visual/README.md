@@ -6,7 +6,7 @@ A **minimal starter** for a visual frontend coding exercise. It includes **HTML 
 
 Open `index.html` in a browser. Edit the files using any editor. You may also serve the folder with a local web server if you prefer.
 
-## Your task (60 minutes)
+## Your task
 
 Starting from the unstyled product list, implement the interface shown in the references:
 
